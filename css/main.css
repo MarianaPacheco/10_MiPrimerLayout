@@ -1,0 +1,144 @@
+*{
+	font-family: 'Ubuntu', sans-serif;
+}
+
+#logo{
+	display: block;
+	margin: auto;
+}
+
+#imgs{					/* Logo laboratoria */
+	padding-left: 25%; 
+	width: 50%;
+	height:50%;
+}
+
+hr{
+	border-bottom: 0.2px solid black;
+	width: 50%;
+}
+
+.separador_chico{
+	border-bottom: 1px solid black;
+	width: 5%;
+}
+
+#menu{
+	margin-left: 30%;
+}
+
+a{
+	text-decoration: none;
+}
+
+p{
+	font-size: 16px;
+	font-weight: bold;
+	font-color: ##040404;
+	text-align: center;
+}
+
+#menuib{
+	display: inline-block; /* Menu inline-block */
+	font-size: 20px;
+}
+
+h3{
+	padding: 10px 10px 8px 10px;
+	margin: 10px 50px 0px 10px;
+} 
+
+#separadornc{   /* Separador nuestras coders */
+	border-bottom: 2px solid black;
+	width: 50px;
+	margin: 0px 0px 10px 20px;
+}
+
+.image{
+	position:relative;
+	margin:20px;
+}
+
+h5{ /* Características de la línea o borde debajo del título */
+	position: absolute;
+	top: 90px;
+	left: 82px;
+	width: 100%;
+	color:#E8E4E8;
+}
+
+#divimage{
+	margin: 0px 0px;
+	display: inline-block;
+}
+
+#divnc{ /* Div nuestras coders */
+	position: relative;
+	left:300px;
+	padding-top: 20px;
+}
+
+#imagecoder{
+	border-radius: 50%;
+	width: 15%;
+	height: 15%;
+	margin-left: 41%;
+	margin-top: 3%;
+}
+
+#exterior{
+	border: 1px solid black;
+	width: 60%;
+	height: 100%;
+	margin:2% 20% 2% 20%;
+}
+
+h1{
+	text-align: center;
+}
+
+#parrafo{
+	
+	margin: 30px 60px 10px 60px;
+	text-align: justify;
+	position: relative;
+}
+
+h2{
+	padding: 10px 30px;
+}
+
+#divhtml{
+	height: 50px;
+	width: 500px;
+	background-color: #B3B6B7;
+	margin: 20px 20px 5px 60px;
+}
+
+#divcss{
+	height: 50px;
+	width: 400px;
+	background-color: #B3B6B7;
+	margin: 20px 20px 5px 60px;
+}
+
+#divjs{
+	height: 50px;
+	width: 350px;
+	background-color: #B3B6B7;
+	margin: 20px 20px 5px 60px;
+}
+
+#divportafolio{
+	position: relative;
+	left:90px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+#imgportafolio{
+	width: 2px;
+	height:2px;
+}
+
+
